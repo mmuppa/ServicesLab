@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">ServicesLab</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+
+    <string name="SHARED_PREFS">edu.uw.tacoma.mmuppa.serviceslab.shared_prefs</string>
+    <string name="ON">ON</string>
     <string name="action_settings">Settings</string>
 </resources>
